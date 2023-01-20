@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Tyche: RL traffic control'
 cover: './show.png'
 external: 'https://drive.google.com/file/d/1IIOtLmN4TgX0ic5Iyp81DvYFqforiPuw/view?usp=sharing'
 github: 'https://github.com/Karthikeyan564/Tyche'
