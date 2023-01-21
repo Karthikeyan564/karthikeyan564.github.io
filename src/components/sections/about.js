@@ -141,9 +141,9 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">University of Toronto</a>,{' '}
-              <a href="https://starry.com/">Indian Academy of Sciences(IASc)</a>, and{' '}
-              <a href="https://www.apple.com/">Anna University</a>. My
+              <a href="https://www.eecg.utoronto.ca/~roman/lab/index.html">University of Toronto</a>,{' '}
+              <a href="https://www.ias.ac.in/">Indian Academy of Sciences(IASc)</a>, and{' '}
+              <a href="https://www.annauniv.edu/">Anna University</a>. My
               main focus these days is building machine learning accelerators, especially neuromorphic ICs.
             </p>
 

@@ -2,7 +2,7 @@
 date: '2'
 title: 'GPS Baseband IC'
 cover: './layout.png'
-github: 'https://github.com/ISL-ECE-CEG-AU/gps_engine'
+github: 'https://github.com/ISL-ECE-CEG-AU/GPS_Baseband'
 
 tech:
   - Verilog

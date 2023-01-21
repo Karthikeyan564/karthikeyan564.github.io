@@ -4,7 +4,7 @@ title: 'Koch Fractal Based Wearable Antenna Backed with EBG Plane'
 github: 'https://github.com/Karthikeyan564/Koch_Fractal_Antenna'
 tech:
   - CST
-company: 'Apple'
+company: 'Anna University'
 showInProjects: true
 ---
 

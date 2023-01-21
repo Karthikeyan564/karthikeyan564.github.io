@@ -107,18 +107,7 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
           <div>Designed &amp; Built by Karthikeyan R</div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )}
+         
       </StyledCredit>
     </StyledFooter>
   );

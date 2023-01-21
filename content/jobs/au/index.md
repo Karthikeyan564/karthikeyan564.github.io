@@ -4,7 +4,7 @@ title: 'Undergraduate Researcher'
 company: 'CEG, Anna University'
 location: 'Chennai, India'
 range: 'May 2021 - January 2022'
-url: 'https://starry.com/'
+url: 'https://www.annauniv.edu/'
 ---
 
 - Completed RTL of GPS Baseband Engine (Digital)IC.
