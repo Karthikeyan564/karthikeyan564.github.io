@@ -2,6 +2,7 @@
 date: '1'
 title: 'Metis: A Neuromorphic IC'
 cover: './layout.png'
+external: 'https://drive.google.com/file/d/1cPj87hYUuPW9w9CtdHkBwdebi8O6tIhc/view?usp=sharing'
 github: 'https://github.com/Karthikeyan564/Metis'
 tech:
   - Verilog
