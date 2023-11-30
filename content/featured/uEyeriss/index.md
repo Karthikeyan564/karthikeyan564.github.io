@@ -2,7 +2,7 @@
 date: '3'
 title: 'uEyeriss: A ML accelerator'
 cover: './arch.png'
-external: 'https://drive.google.com/file/d/1IIOtLmN4TgX0ic5Iyp81DvYFqforiPuw/view?usp=sharing'
+external: 'https://drive.google.com/file/d/1TtVyGZCu_1tytX91rmpk-yMc7IyJlvvS/view?usp=sharing'
 github: 'https://github.com/Karthikeyan564/uEyeriss'
 cta: ''
 tech:

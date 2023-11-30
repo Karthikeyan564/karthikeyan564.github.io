@@ -2,6 +2,7 @@
 date: '2021-10-02'
 title: 'Tyche: RL traffic control'
 github: 'https://github.com/Karthikeyan564/Tyche'
+external: 'https://drive.google.com/file/d/1IIOtLmN4TgX0ic5Iyp81DvYFqforiPuw/view?usp=sharing'
 tech:
   - Q-learning
   - PPO
