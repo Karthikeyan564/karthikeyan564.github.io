@@ -135,19 +135,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Karthikeyan R and I enjoy creating Integrated Circuits. My
-              interest in IC design started back in 2020 when I was working on the GPS Baseband IC and the Temperature sensor IC during my internship at Integrated Systems Laboratory.
+              Hello! My name is Karthikeyan Renga Rajan and I enjoy creating Integrated Circuits. My
+              interest in IC design started back in 2020 when I was working on the GPS Baseband IC
+              and the Temperature sensor IC during my internship at Integrated Systems Laboratory.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.eecg.utoronto.ca/~roman/lab/index.html">University of Toronto</a>,{' '}
-              <a href="https://www.ias.ac.in/">Indian Academy of Sciences(IASc)</a>, and{' '}
-              <a href="https://www.annauniv.edu/">Anna University</a>. My
-              main focus these days is building machine learning accelerators, especially neuromorphic ICs.
+              <a href="https://www.eecg.utoronto.ca/~roman/lab/index.html">University of Toronto</a>
+              , <a href="https://www.ias.ac.in/">Indian Academy of Sciences(IASc)</a>, and{' '}
+              <a href="https://www.annauniv.edu/">Anna University</a>. My main focus these days is
+              building machine learning accelerators, especially neuromorphic ICs.
             </p>
-
-
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
