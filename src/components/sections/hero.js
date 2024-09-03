@@ -65,8 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Integrated Circuit Design Engineer with experience in designing Analog, Digital and
-        Mixed-Signal ICs. Currently, I’m pursuing my bachelor's at{' '}
+        I’m a Integrated Circuit Design Engineer with experience in designing Digital and
+        Mixed-Signal ICs. Currently, I have completed my Bachelor of Engineering in Electronics and
+        Communication Engineering Degree at{' '}
         <a href="https://annauniv.edu/" target="_blank" rel="noreferrer">
           Anna University
         </a>

@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Verilog', 'C/C++', 'Python', 'OpenLane', 'Linux', 'Matlab'];
+  const skills = ['SystemVerilog', 'C/C++', 'Python', 'OpenLane', 'Linux', 'PyTorch'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,7 +137,7 @@ const About = () => {
             <p>
               Hello! My name is Karthikeyan Renga Rajan and I enjoy creating Integrated Circuits. My
               interest in IC design started back in 2020 when I was working on the GPS Baseband IC
-              and the Temperature sensor IC during my internship at Integrated Systems Laboratory.
+              during my internship at Integrated Systems Laboratory.
             </p>
 
             <p>

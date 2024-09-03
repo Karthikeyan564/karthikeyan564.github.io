@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'uEyeriss: A ML accelerator'
 cover: './arch.png'
 external: 'https://drive.google.com/file/d/1TtVyGZCu_1tytX91rmpk-yMc7IyJlvvS/view?usp=sharing'

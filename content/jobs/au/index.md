@@ -7,5 +7,5 @@ range: 'May 2021 - January 2022'
 url: 'https://www.annauniv.edu/'
 ---
 
-- Completed RTL of GPS Baseband Engine (Digital)IC.
-- Completed Layout of Temperature Sensor (Analog)IC.
+- Implemented RTL changes(in Verilog) to accommodate the modified architecture of the ASIC.
+- Wrote test benches to simulate and verify the behavioral functioning of any given module

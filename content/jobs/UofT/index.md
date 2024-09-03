@@ -7,7 +7,6 @@ range: 'May - August 2022'
 url: 'https://www.eecg.utoronto.ca/~roman/lab/index.html'
 ---
 
- - Designing and Implementing a RISCV Core with OpenOCD flow,
- - Integrating Mask_Generation and Mask_Decompression modules with the RISCV Core using AXI bridge.
- - Completed a Continuous Integration flow for the Mask_gen module.
- - Completed an Automatic Documentation engine for the project.
+- Summer Internship under Prof. Roman Genov at the University of Toronto funded by MITACS.
+- Developed a RISC-V core(in SystemVerilog) to create custom mask sequences on the fly for the coded-exposure image sensors.
+- Worked on mask generation and mask decompression modules for generating hard-coded masks and receiving compressed masks.
