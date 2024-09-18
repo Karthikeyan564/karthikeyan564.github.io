@@ -12,7 +12,7 @@ url: 'http://www.uicbannauniv.com'
 - Managing a two-member student team. -->
 
 - Co-founded an ASIC design startup focused on Ultrafast, Nanopore DNA sequencing, raising $10,000 in startup capital in the first year.
-- Designed and Impleme2nted an RISC-V V-extension based ASIC in SystemVerilog to decode DNA sequences based on signals derived from a Nanopore Membrane.
+- Designed and Implemented an RISC-V V-extension based ASIC in SystemVerilog to decode DNA sequences based on signals derived from a Nanopore Membrane.
 - Achieved a cycle-to-cycle acceleration factor of 107 at 400 MHz on benchmarks as compared to a Tesla V100.
 - Managed a 2-member undergraduate student team.
 - Patent Pending for the basecaller IC architecture.
