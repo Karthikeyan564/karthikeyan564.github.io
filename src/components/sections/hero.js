@@ -65,11 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Integrated Circuit Design Engineer with experience in designing Digital and
-        Mixed-Signal ICs. Currently, I have completed my Bachelor of Engineering in Electronics and
-        Communication Engineering Degree at{' '}
-        <a href="https://annauniv.edu/" target="_blank" rel="noreferrer">
-          Anna University
+        I’m a Digital Integrated Circuit Design Engineer with experience in both Computer
+        Architecture and RTL Design. I am especially interested in Machine Learning accelerator
+        architectures. Currently, I am a Master of Science in Computer Engineering student at{' '}
+        <a href="https://www.tamu.edu/index.html" target="_blank" rel="noreferrer">
+          Texas A&M
         </a>
         .
       </p>

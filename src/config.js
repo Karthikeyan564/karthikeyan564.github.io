@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'karthiceg564@gmail.com',
+  email: 'krengara@gmail.com',
 
   socialMedia: [
     {
@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/karthikeyan-r-6245591b5/',
+      url: 'https://www.linkedin.com/in/krengara/',
     },
   ],
 

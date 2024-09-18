@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['SystemVerilog', 'C/C++', 'Python', 'OpenLane', 'Linux', 'PyTorch'];
+  const skills = ['SystemVerilog', 'C/C++', 'Python', 'Tcl', 'Perl', 'PyTorch', 'Vivado', 'Linux'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,9 +135,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Karthikeyan Renga Rajan and I enjoy creating Integrated Circuits. My
-              interest in IC design started back in 2020 when I was working on the GPS Baseband IC
-              during my internship at Integrated Systems Laboratory.
+              Hello! My name is Karthikeyan Renga Rajan and I enjoy creating Digital Integrated
+              Circuits. My interest in Digtial IC design started back in 2020 when I was working on
+              the GPS Baseband IC during my internship at Integrated Systems Laboratory, Anna
+              University.
             </p>
 
             <p>
@@ -145,7 +146,12 @@ const About = () => {
               <a href="https://www.eecg.utoronto.ca/~roman/lab/index.html">University of Toronto</a>
               , <a href="https://www.ias.ac.in/">Indian Academy of Sciences(IASc)</a>, and{' '}
               <a href="https://www.annauniv.edu/">Anna University</a>. My main focus these days is
-              building machine learning accelerators, especially neuromorphic ICs.
+              building machine learning accelerators.
+            </p>
+
+            <p>
+              I also had the privilege of co-founding an ASIC design startup focused on Ultrafast,
+              Nanopore DNA sequencing, raising $10,000 in startup capital in the first year.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
